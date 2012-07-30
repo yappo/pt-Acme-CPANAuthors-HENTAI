@@ -1,0 +1,22 @@
+# NAME
+
+Acme::CPANAuthors::HENTAI -
+
+# SYNOPSIS
+
+    use Acme::CPANAuthors::HENTAI;
+
+# DESCRIPTION
+
+Acme::CPANAuthors::HENTAI is
+
+# AUTHOR
+
+Kazuhiro Osawa <yappo {at} shibuya {dot} pl>
+
+# SEE ALSO
+
+# LICENSE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
