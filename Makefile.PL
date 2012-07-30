@@ -5,12 +5,11 @@ readme_from 'lib/Acme/CPANAuthors/HENTAI.pm';
 readme_markdown_from 'lib/Acme/CPANAuthors/HENTAI.pm';
 githubmeta;
 
-# requires '';
+requires 'Acme::CPANAuthors';
 
 tests 't/*.t';
 author_tests 'xt';
 
 build_requires 'Test::More';
 auto_set_repository;
-auto_include;
 WriteAll;

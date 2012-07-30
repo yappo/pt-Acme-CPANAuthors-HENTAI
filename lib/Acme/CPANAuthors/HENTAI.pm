@@ -3,12 +3,16 @@ use strict;
 use warnings;
 our $VERSION = '0.01';
 
+use Acme::CPANAuthors::Register (
+    XAICRON => 'Yuji Shimada',
+);
+
 1;
 __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::HENTAI -
+Acme::CPANAuthors::HENTAI - xaicron
 
 =head1 SYNOPSIS
 
